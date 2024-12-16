@@ -14,6 +14,7 @@ def text2sound(text: str, language: str = 'en') -> None:
 
 
 class TTS:
+    """Text to speech"""
     MODEL_ID = ('v3_1_ru', 'ru_v3', 'aidar_v2', 'aidar_8khz', 'aidar_16khz', 'baya_v2', 'baya_8khz', 'baya_16khz',
                 'irina_v2', 'irina_8khz', 'irina_16khz', 'kseniya_v2', 'kseniya_8khz', 'kseniya_16khz', 'natasha_v2',
                 'natasha_8khz', 'natasha_16khz', 'ruslan_v2', 'ruslan_8khz', 'ruslan_16khz', 'v3_en', 'v3_en_indic',
