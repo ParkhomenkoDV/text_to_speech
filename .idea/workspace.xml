@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20ee9f0-f0d3-4381-889e-1c44178431e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/text_to_speech.iml" afterDir="false" />
+    <list default="true" id="f20ee9f0-f0d3-4381-889e-1c44178431e4" name="Changes" comment="add class TTS">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/text_to_speach.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_to_speech/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_to_speech/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_to_speech/google_text_to_speach.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_to_speech/play_sound.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_to_speech/text_to_speech.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_to_speech/text_to_speech.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1734336840451</updated>
     </task>
+    <task id="LOCAL-00001" summary="add class TTS">
+      <option name="closed" value="true" />
+      <created>1734339365553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734339365553</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add class TTS" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class TTS" />
   </component>
 </project>
