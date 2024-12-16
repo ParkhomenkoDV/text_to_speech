@@ -8,15 +8,15 @@ with open('requirements.txt', 'rt') as file:
     install_requires = file.readlines()
 
 setup(
-    name='disk',
+    name='text_to_speech',
     version=time.strftime('%Y.%m.%d.%H.%M', time.localtime()),
     description='lib',
     long_description=long_description,
     long_description_content_type='text/markdown',  # если long_description = .md
     author='Daniil Andryushin',
     author_email='',
-    url='https://github.com/ParkhomenkoDV/disk.git',
+    url='https://github.com/ParkhomenkoDV/text_to_speech.git',
     packages=find_packages(),
-    python_requires='>=3.8',
+    python_requires='>=3.9',
     install_requires=install_requires,
 )

@@ -1,5 +1,5 @@
 torch
-numpy==1.26.4  # for torch
+numpy  # for torch
 omegaconf  # for torch
 sounddevice
 
